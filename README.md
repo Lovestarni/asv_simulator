@@ -16,4 +16,4 @@ launched for visualization.
 ## TODO
 - [ ] write docker build files
 - [ ] write how to use
-- [ ] change the code to submodule
+- [x] change the code to submodule
