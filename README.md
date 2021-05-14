@@ -12,3 +12,8 @@ An example launch file is found in `launch/example.launch`. It launches the
 simulator together with a Line of Sight (LOS) node for waypoint following. In
 addition a 3D-model is loaded using the `robot_state_publisher`-package. Rviz is
 launched for visualization.
+
+## TODO
+- [ ] write docker build files
+- [ ] write how to use
+- [ ] change the code to submodule
